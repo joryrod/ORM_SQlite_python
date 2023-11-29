@@ -1,0 +1,9 @@
+Libros={
+    "Libros":{
+        "codigo":"INTEGER",
+        "titulo":"TEXT",
+        "f_publicacion":"TEX",
+        "editorial":"TEXT",
+        "id_autor":"INTEGER"
+    }
+}
